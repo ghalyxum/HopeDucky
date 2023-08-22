@@ -1,0 +1,3 @@
+windres ./resources/resources.rc -o ./resources_/resources.o
+g++ HopeDucky.cpp PathFuncs.cpp String2WString.cpp Keys.cpp ./resources/resources.o -o HopeDucky.exe
+./HopeDucky.exe
