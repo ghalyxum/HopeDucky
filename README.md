@@ -5,7 +5,7 @@ Rubber Ducky As C++ Programme
 
 ````
 
-git clone https://github.com/ghalypr/HopeDucky.git
+git clone https://github.com/ghalyxum/HopeDucky.git
 
 ````
 
